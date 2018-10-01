@@ -46,3 +46,9 @@ ul li{
     right: -123px;
     top: 0px;
 }
+
+@media only screen and (max-width: 325px){
+    .nav li a{
+        color: aqua;
+    }
+}
